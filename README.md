@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajdeep Das (@imraj071)
 - 👀 I’m interested in Programming and improving my Coding Skills
-- 🌱 I’m currently learning Data Structures and Algorithms, and Web Development
+- 🌱 DSA, Full Stack Web Development, RAG
 - 📫 How to reach me LinkedIn : https://www.linkedin.com/in/rajdeep-das-705132251/
 
 <!---
