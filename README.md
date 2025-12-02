@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajdeep Das (@imraj071)
 - 🌱 DSA, Full Stack Web Development, RPA, RAG
-- 📫 How to reach me LinkedIn : https://www.linkedin.com/in/rajdeep-das-705132251/
+- 📫 How to reach me LinkedIn : https://www.linkedin.com/in/imraj071/
 
 <!---
 imraj071/imraj071 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
