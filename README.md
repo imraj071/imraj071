@@ -1,65 +1,96 @@
 <h1 align="center">Hey, I'm Rajdeep Das 👋</h1>
 
 <p align="center">
-  Software Engineer · AI Agents · Automation · Full-Stack
+  🏢 Software Engineer · 🤖 AI Agents · ⚙️ Automation · 🌐 Full-Stack
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/imraj071/">LinkedIn</a> •
-  <a href="mailto:imraj071@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/imraj071/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:imraj071@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## About Me
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-Software Engineer at **Wells Fargo**, where I build RPA Workflows, Test Automation Pipelines, and AI Agents for real-world enterprise use cases.
+## 🙋‍♂️ About Me
 
-Outside of work, I'm actively building projects around **LangChain**, **LangGraph**, and **FastAPI** — focused on agentic systems and intelligent backends.
-
----
-
-## What I Work With
-
-**AI & Agents**
-LangChain · LangGraph · LangSmith · RAG Pipelines · Prompt Engineering
-
-**Backend**
-FastAPI · Python · REST APIs
-
-**Frontend**
-React · TypeScript · JavaScript
-
-**Automation & Testing**
-UiPath (RPA) · Playwright · Power Apps
-
-**CS Fundamentals**
-Data Structures & Algorithms (C++) · Object-Oriented Programming System (OOPS) · Database Management System (DBMS)
+- 🏦 **Software Engineer** at **Wells Fargo**
+- 🤖 Building **AI Agents** with LangChain & LangGraph
+- ⚙️ Working on **RPA**, **Test Automation** & **FastAPI** backends
+- 🌱 Currently deep-diving into **Agentic AI Systems**
+- 💬 Ask me about **LangGraph · FastAPI · Playwright · UiPath**
 
 ---
 
-## Projects
+## 🛠️ Tech Stack
+
+**🤖 AI & Agents**
+
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-FF6B35?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**⚙️ Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/REST_APIs-FF6F00?style=for-the-badge&logoColor=white)
+
+**🧪 Automation & Testing**
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+
+**🌐 Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**📐 CS Fundamentals**
+
+![C++](https://img.shields.io/badge/DSA_with_C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![OOPs](https://img.shields.io/badge/OOPs-FF6B6B?style=for-the-badge&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🚀 Projects
 
 ### 🤖 AI & Agents
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| Coming Soon | LangGraph Agent | LangGraph · FastAPI | 🔨 In Progress |
+| 🔨 Coming Soon | LangGraph AI Agent | LangGraph · FastAPI | 🚧 In Progress |
 
 ### 🌐 Frontend
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| My Portfolio | Personal portfolio showcasing my work | React · JS | [View →](https://imraj071.github.io/internship-portfolio-project/) |
+| 🗂️ My Portfolio | Personal portfolio showcasing my work | React · JS | [View →](https://imraj071.github.io/internship-portfolio-project/) |
 
-> 📌 More projects actively being built. Check back soon.
-
----
-
-## Currently Building
-- 🔗 An AI Agent project using **LangGraph + FastAPI**
-- 📚 Strengthening **DSA** Problem Solving
+> 📌 More projects actively being built — check back soon!
 
 ---
 
-## Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/imraj071/)
-- 📬 <a href="mailto:imraj071@gmail.com">imraj071@gmail.com</a>
+## 🔥 Currently Working On
+
+- 🧠 An end-to-end **AI Agent** using **LangGraph + FastAPI**
+- 📈 Sharpening **DSA** problem solving in **C++**
+
+---
+
+## 📬 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/imraj071/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:imraj071@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
