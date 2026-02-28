@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rajdeep Das (@imraj071)
-- 🌱 DSA, Full Stack Web Development, RPA, RAG, Playwright
+- 🌱 DSA, JS, TS, Python, FastAPI, React, RPA, RAG, Playwright
 - 📫 How to reach me LinkedIn : https://www.linkedin.com/in/imraj071/
 
 <!---
