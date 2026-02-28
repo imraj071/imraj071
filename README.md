@@ -56,7 +56,7 @@
 **📐 CS Fundamentals**
 
 ![C++](https://img.shields.io/badge/Data_Structures_and_Alogorithms_(DSA)_with_C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![OOPs](https://img.shields.io/badge/Object-Oriented_Programming_System_(OOPs)-FF6B6B?style=for-the-badge&logoColor=white)
+![OOPs](https://img.shields.io/badge/Object_Oriented_Programming_System_(OOPs)-FF6B6B?style=for-the-badge&logoColor=white)
 ![DBMS](https://img.shields.io/badge/Database_Management_Systems_(DBMS)-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
