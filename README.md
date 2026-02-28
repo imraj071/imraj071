@@ -53,3 +53,13 @@ Data Structures & Algorithms (C++) · Object-Oriented Programming System (OOPS) 
 > 📌 More projects actively being built. Check back soon.
 
 ---
+
+## Currently Building
+- 🔗 An AI Agent project using **LangGraph + FastAPI**
+- 📚 Strengthening **DSA** problem solving
+
+---
+
+## Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/imraj071/)
+- 📬 [Email](imraj071@gmail.com)
