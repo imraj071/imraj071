@@ -34,6 +34,6 @@ UiPath (RPA) · Playwright · Power Apps
 React · TypeScript · JavaScript
 
 **CS Fundamentals**
-Data Structures & Algorithms (C++)
+Data Structures & Algorithms (C++) · Object-Oriented Programming System (OOPS)
 
 ---
