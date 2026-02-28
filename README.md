@@ -48,7 +48,7 @@ Data Structures & Algorithms (C++) · Object-Oriented Programming System (OOPS) 
 ### 🌐 Frontend
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| My Portfolio | Personal portfolio showcasing my work | React · JS | [View →](YOUR_LINK_HERE) |
+| My Portfolio | Personal portfolio showcasing my work | React · JS | [View →](https://imraj071.github.io/internship-portfolio-project/) |
 
 > 📌 More projects actively being built. Check back soon.
 
