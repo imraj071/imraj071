@@ -71,7 +71,7 @@
 ### 🌐 Frontend
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| 🗂️ My Portfolio | Personal portfolio showcasing my work | React · JS | [View →](https://imraj071.github.io/internship-portfolio-project/) |
+| 🗂️ My Portfolio | Personal portfolio showcasing my work | React · JS · Tailwind CSS | [View →](https://imraj071.github.io/internship-portfolio-project/) |
 
 > 📌 More projects actively being built — check back soon!
 
