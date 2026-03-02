@@ -66,7 +66,7 @@
 ### 🤖 AI & Agents
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| 🔨 Coming Soon | LangGraph AI Agent | LangGraph · FastAPI | 🚧 In Progress |
+| 📈 Stock Research Assistant | AI-powered Financial Research Platform | LangGraph · FastAPI · React · Playwright | 🚧 In Progress |
 
 ### 🌐 Frontend
 | Project | Description | Stack | Link |
