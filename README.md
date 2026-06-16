@@ -68,9 +68,9 @@
 
 ### 🌐 Full-Stack Web Dev
 
-| Project | Description | Stack | Status |
-|---|---|---|---|
-| 🎬 QuickShow | Movie ticket booking platform | MongoDB · Express · React · Node.js · Tailwind CSS | 🚧 In Progress |
+| Project | Description | Stack | Live | Status |
+|---|---|---|---|---|
+| 🎬 QuickShow | Movie ticket booking platform | MongoDB · Express · React · Node.js · Tailwind CSS | [🔗 Live](https://quickshow-ten-xi.vercel.app/) | ✅ Deployed |
 
 ### 🤖 AI Agents
 
@@ -90,7 +90,6 @@
 
 ## 🔥 Currently Working On
 
-- 🎬 **QuickShow** — Full-stack movie ticket booking platform (**MERN + Tailwind CSS**)
 - 🧠 An end-to-end **AI Agent** using **LangGraph + FastAPI**
 - 🔍 A **RAG** (Retrieval-Augmented Generation) project
 - 📈 Sharpening **DSA** problem solving in **C++**
