@@ -68,9 +68,9 @@
 
 ### 🌐 Full-Stack Web Dev
 
-| Project | Description | Stack | Live | Status |
-|---|---|---|---|---|
-| 🎬 QuickShow | Movie ticket booking platform | MongoDB · Express · React · Node.js · Tailwind CSS | [🔗 Live](https://quickshow-ten-xi.vercel.app/) | ✅ Deployed |
+| Project | Description | Stack | Live |
+|---|---|---|---|
+| 🎬 QuickShow | Movie ticket booking platform | MongoDB · Express · React · Node.js · Tailwind CSS | [🔗 Live](https://quickshow-ten-xi.vercel.app/) |
 
 ### 🤖 AI Agents
 
